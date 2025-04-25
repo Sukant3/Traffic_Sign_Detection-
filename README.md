@@ -1,4 +1,4 @@
-# 🚦 Traffic_Sign_Detection
+# 🚦 Traffic Sign Recognization System
 __________________
 This research presents a deep learning-powered Traffic Sign Classification System that automatically recognizes traffic signs from images and provides corresponding road safety instructions. 
 
