@@ -7,6 +7,8 @@ The system is trained on the German Traffic Sign Recognition Benchmark (GTSRB) d
 The interface allows users to upload an image of a traffic sign, which is then classified into one of 43 categories. Corresponding road safety guidelines are displayed for each sign.
 
 __________________
+✅ Project Overview
+
 Implementation of a CNN model trained on the GTSRB dataset for efficient traffic sign classification.
 
 Mapping each predicted sign category to appropriate road safety instructions.
